@@ -43,4 +43,3 @@ task_manager.show_current_tasks()
 
 task_manager.mark_task_completed("Написать программу")
 task_manager.show_current_tasks()
-
